@@ -82,7 +82,7 @@ function setup() {
   button2.size(50,50);
  //add mouseclicked
 
- button.mouseClicked(remove_rope);
+ //button.mouseClicked(remove_rope);
 button2.mouseClicked(drop);
 
 
